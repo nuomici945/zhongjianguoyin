@@ -134,6 +134,8 @@ $(document).ready(function(){
 		$(this).css('background-color','#eeab36');
 		
 	})
+	
+	
 	function newsChange(){
 		var h6 = $('.news-left h6');
 		var str = '<span class="selected">&nbsp;&nbsp;&nbsp;&gt;</span>';
